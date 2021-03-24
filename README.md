@@ -2,3 +2,4 @@
 Reconocer el computador y sus partes como una máquina que  tiene muchas utilidades
 ## Camilo Muñoz
 ### Alvaro Pio Villalba
+### Franklin Martínez Ávila asesor
